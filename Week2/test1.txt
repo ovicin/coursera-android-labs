@@ -1,0 +1,16 @@
+02-02 14:21:48.510: I/Lab-ActivityOne(1912): ActivityOne onCreate
+02-02 14:21:48.550: I/Lab-ActivityOne(1912): ActivityOne onStart
+02-02 14:21:48.550: I/Lab-ActivityOne(1912): ActivityOne onResume
+02-02 14:21:54.790: I/Lab-ActivityOne(1912): ActivityOne onPause
+02-02 14:21:54.790: I/Lab-ActivityOne(1912): ActivityOne onStop
+02-02 14:21:54.790: I/Lab-ActivityOne(1912): ActivityOne onDestroy
+02-02 14:21:55.120: I/Lab-ActivityOne(1912): ActivityOne onCreate
+02-02 14:21:55.120: I/Lab-ActivityOne(1912): ActivityOne onStart
+02-02 14:21:55.120: I/Lab-ActivityOne(1912): ActivityOne onResume
+02-02 14:22:00.610: I/Lab-ActivityOne(1912): ActivityOne onPause
+02-02 14:22:00.610: I/Lab-ActivityOne(1912): ActivityOne onStop
+02-02 14:22:00.610: I/Lab-ActivityOne(1912): ActivityOne onDestroy
+02-02 14:22:00.910: I/Lab-ActivityOne(1912): ActivityOne onCreate
+02-02 14:22:00.910: I/Lab-ActivityOne(1912): ActivityOne onStart
+02-02 14:22:00.910: I/Lab-ActivityOne(1912): ActivityOne onResume
+02-02 14:22:06.030: I/Lab-ActivityOne(1912): ActivityOne onPause

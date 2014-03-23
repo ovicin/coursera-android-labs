@@ -1,0 +1,7 @@
+02-26 16:19:13.917: I/Lab-Notifications(2612): In ensureData(), mIsFresh:false
+02-26 16:19:14.471: I/Lab-Notifications(2612): Issuing Toast Message
+02-26 16:19:15.023: I/Lab-Notifications(2612): Entered doInBackground()
+02-26 16:19:33.770: I/Lab-Notifications(2612): Tweet Download Completed:true
+02-26 16:19:34.272: I/Lab-Notifications(2612): Entered notify()
+02-26 16:19:35.048: I/Lab-Notifications(2612): Entered result receiver's onReceive() method
+02-26 16:19:35.616: I/Lab-Notifications(2612): Notification Area Notification sent
